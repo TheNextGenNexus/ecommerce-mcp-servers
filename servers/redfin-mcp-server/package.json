@@ -1,6 +1,6 @@
 {
   "name": "@thenextgennexus/redfin-mcp-server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Search Redfin properties, get property details, and market statistics",
   "type": "module",
   "bin": {
@@ -36,5 +36,5 @@
     "type": "git",
     "url": "https://github.com/TheNextGenNexus/ecommerce-mcp-servers"
   },
-  "mcpName": "io.github.thenextgennexus/redfin-mcp-server"
+  "mcpName": "io.github.TheNextGenNexus/redfin-mcp-server"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@thenextgennexus/ecommerce-intelligence-mcp-server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Analyze Shopify stores, get product catalogs, pricing strategies, and store performance data",
   "type": "module",
   "bin": {
@@ -36,5 +36,5 @@
     "type": "git",
     "url": "https://github.com/TheNextGenNexus/ecommerce-mcp-servers"
   },
-  "mcpName": "io.github.thenextgennexus/ecommerce-intelligence-mcp-server"
+  "mcpName": "io.github.TheNextGenNexus/ecommerce-intelligence-mcp-server"
 }

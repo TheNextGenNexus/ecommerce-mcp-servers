@@ -1,0 +1,30 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.TheNextGenNexus/real-estate-mcp-server",
+  "description": "Search properties via Redfin and Google Maps real estate data",
+  "repository": {
+    "url": "https://github.com/TheNextGenNexus/ecommerce-mcp-servers",
+    "source": "github",
+    "subfolder": "servers/real-estate-mcp-server"
+  },
+  "version": "1.0.1",
+  "packages": [
+    {
+      "registryType": "npm",
+      "identifier": "@thenextgennexus/real-estate-mcp-server",
+      "version": "1.0.1",
+      "transport": {
+        "type": "stdio"
+      },
+      "environmentVariables": [
+        {
+          "description": "Your Apify API token for accessing web scraping actors",
+          "isRequired": true,
+          "format": "string",
+          "isSecret": true,
+          "name": "APIFY_TOKEN"
+        }
+      ]
+    }
+  ]
+}

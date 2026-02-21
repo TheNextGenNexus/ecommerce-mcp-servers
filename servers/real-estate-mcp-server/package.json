@@ -1,6 +1,6 @@
 {
   "name": "@thenextgennexus/real-estate-mcp-server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Search properties via Redfin and Google Maps real estate data",
   "type": "module",
   "bin": {
@@ -36,5 +36,5 @@
     "type": "git",
     "url": "https://github.com/TheNextGenNexus/ecommerce-mcp-servers"
   },
-  "mcpName": "io.github.thenextgennexus/real-estate-mcp-server"
+  "mcpName": "io.github.TheNextGenNexus/real-estate-mcp-server"
 }

@@ -1,5 +1,5 @@
 {
-  "name": "@nexgendata/ecommerce-intelligence-mcp-server",
+  "name": "@thenextgennexus/ecommerce-intelligence-mcp-server",
   "version": "1.0.0",
   "description": "Analyze Shopify stores, get product catalogs, pricing strategies, and store performance data",
   "type": "module",

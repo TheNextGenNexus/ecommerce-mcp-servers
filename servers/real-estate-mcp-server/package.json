@@ -1,5 +1,5 @@
 {
-  "name": "@nexgendata/real-estate-mcp-server",
+  "name": "@thenextgennexus/real-estate-mcp-server",
   "version": "1.0.0",
   "description": "Search properties via Redfin and Google Maps real estate data",
   "type": "module",

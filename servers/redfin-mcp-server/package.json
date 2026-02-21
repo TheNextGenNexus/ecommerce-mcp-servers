@@ -34,6 +34,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/TheNextGenNexus/redfin-mcp-servers"
-  }
+    "url": "https://github.com/TheNextGenNexus/ecommerce-mcp-servers"
+  },
+  "mcpName": "io.github.thenextgennexus/redfin-mcp-server"
 }

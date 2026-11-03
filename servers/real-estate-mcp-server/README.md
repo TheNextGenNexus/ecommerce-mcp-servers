@@ -1,6 +1,6 @@
 # Real Estate MCP Server
 
-Search properties via Redfin and Google Maps real estate data — powered by [nexgendata](https://apify.com/nexgendata) on Apify.
+Search properties via Redfin and Google Maps real estate data — powered by [nexgendata](https://apify.com/nexgendata?fpr=2ayu9b) on Apify.
 
 ## Quick Start
 
@@ -62,7 +62,7 @@ This MCP server acts as a local stdio bridge to the [nexgendata Apify MCP endpoi
 
 ## Links
 
-- [Apify Store](https://apify.com/nexgendata/real-estate-mcp-server)
+- [Apify Store](https://apify.com/nexgendata/real-estate-mcp-server?fpr=2ayu9b)
 - [GitHub Repository](https://github.com/TheNextGenNexus/ecommerce-mcp-servers)
 - [nexgendata Blog](https://thenextgennexus.com)
 
